@@ -175,9 +175,14 @@ STDEV.P('fato_cotacoes'[Preco_Fechamento])
 
 // 4. Índice Sharpe (Métrica de Eficiência Risco x Retorno)
 Índice Sharpe = 
-VAR Taxa_Livre_Risco = 0.10 // Benchmark de Renda Fixa (Selic)
-RETURN
-DIVIDE([Retorno Acumulado %] - Taxa_Livre_Risco, [Risco (Volatilidade)])
+ROUND(
+    DIVIDE(
+        ([Retorno Acumulado %] - 0.13),
+        [Risco (Volatilidade)],
+        0
+    ),
+    2
+)
 
 // 5. Drawdown Máximo (Análise de Perda Histórica)
 Drawdown = 
