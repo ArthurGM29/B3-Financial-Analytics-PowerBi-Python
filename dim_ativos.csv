@@ -1,0 +1,19 @@
+﻿Ticker,Empresa,Setor,Classe_Ativo
+ITUB4.SA,Itaú Unibanco,Financeiro,Ação
+WEGE3.SA,WEG,Bens Industriais,Ação
+VALE3.SA,Vale,Materiais Básicos,Ação
+PETR4.SA,Petrobras,Petróleo e Gás,Ação
+RADL3.SA,Raia Drogasil,Saúde,Ação
+BBAS3.SA,Banco do Brasil,Financeiro,Ação
+BBDC4.SA,Bradesco,Financeiro,Ação
+GGBR4.SA,Gerdau,Materiais Básicos,Ação
+SUZB3.SA,Suzano,Materiais Básicos,Ação
+ABEV3.SA,Ambev,Consumo Não Cíclico,Ação
+LREN3.SA,Lojas Renner,Consumo Cíclico,Ação
+ELET6.SA,Eletrobras,Utilidade Pública,Ação
+EQTL3.SA,Equatorial,Utilidade Pública,Ação
+B3SA3.SA,B3,Financeiro,Ação
+MGLU3.SA,Magalu,Consumo Cíclico,Ação
+HYPE3.SA,Hypera Pharma,Saúde,Ação
+RENT3.SA,Localiza,Bens Industriais,Ação
+^BVSP,Ibovespa,Benchmark,Índice
